@@ -8,6 +8,12 @@ Gemmfa Website merupakan aplikasi web untuk mendukung penyampaian informasi dan 
 
 Proyek ini dikembangkan untuk menerapkan keterampilan web development, khususnya dalam membangun aplikasi menggunakan PHP dan Laravel.
 
+## Tampilan Website
+
+Website GEMMFA telah memiliki halaman utama dengan navigasi informasi organisasi, program, berita, galeri, donasi, dan kontak.
+
+![Homepage GEMMFA](screenshots/gemmfa-homepage.png)
+
 ## Fitur
 
 Berdasarkan struktur kode proyek, fitur yang dikembangkan mencakup:
